@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Angga</h1>
-<center>
-  <img src ="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47bkxg2ixjsz25ljgqsf9h0zkgz59ggw5xxtei5j3o&ep=v1_gifs_search&rid=giphy.gif&ct=g"</img>
-</center>
+
+<p align ="center">
+    <img src ="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47bkxg2ixjsz25ljgqsf9h0zkgz59ggw5xxtei5j3o&ep=v1_gifs_search&rid=giphy.gif&ct=g"</img>
+</p>
+
 
 <h2>🚀 About Me</h2> 
 - 👩‍💻 I'm student collage on university medan state
