@@ -7,11 +7,8 @@
 
 <h2>🚀 About Me</h2> 
 - 👩‍💻 I'm student collage on university medan state
-
 - 🧠 I'm currently learning java and kotlin
-
 - 💬 Ask me about mobile programming
-
 - 📫 How to reach me nugrahanggara015@gmail.com
 
 <h2>🛠 Skills</h2>
