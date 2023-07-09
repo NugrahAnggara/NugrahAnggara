@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Angga</h1>
 <center>
-  <img src ="https://cdn.dribbble.com/users/2789762/screenshots/8630894/media/583b209224b027954cb6e8b9901cb731.gif"</img>
+  <img src ="[https://cdn.dribbble.com/users/2789762/screenshots/8630894/media/583b209224b027954cb6e8b9901cb731.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXg1emk2a2ZsZDg2Z3I5aTcwcGkxZmllam5vZDZlNTJtaHo3N25udCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)"</img>
 </center>
 
 <h2>🚀 About Me</h2> 
